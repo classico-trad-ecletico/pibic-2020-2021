@@ -2,6 +2,9 @@
 title    : "Módulos e dimensões do parcelamento urbano no Brasil do século XIX"
 author   : "Daniela Matias Xavier"
 date     : 2020-04-13
+nocite   : "@*"
+csl      : "styles/associacao-brasileira-de-normas-tecnicas.csl"
+bibliography: "pibic21-modulos.bib"
 ---
 
 Objetivos, problema e justificativa
@@ -30,6 +33,13 @@ específicos necessários à sua consecução:
   com a situação atual do parcelamento urbano, observando a resiliência
   dos padrões urbanísticos.
 
+O propósito da pesquisa é fazer um levantamento histórico-urbanístico
+com enfoque no século XIX, na ocasião em que, sucedeu-se amplo
+desenvolvimento, planejamento e criação de importantes cidades
+brasileiras. Abrangendo um recorte até os dias atuais, com objetivo de
+estudar quais regiões permaneceram o mais intactas em relação ao
+dimensionamento existente no período da idade média.
+
 Entre o final do ciclo de fundações de vilas promovido pelo marquês de
 Pombal (1777) e o início do ciclo de projetos urbanos da primeira
 República (1895), a urbanização luso-brasileira se transforma
@@ -57,16 +67,41 @@ ruas com 60 a 100 palmos de caixa.
 Viabilidade, recursos e metodologia
 ===================================
 
-Inserir a descrição da metodologia da pesquisa contendo os passos
-metodológicos necessários para a sua execução e para o alcance dos
-objetivos enunciados. Também devem ser descritos os recursos materiais
-(bibliografia, computadores, softwares, metodologias, equipamentos de
-laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
-a infraestrutura (laboratórios, salas de pesquisa, salas de informática
-e outros espaços) disponíveis para a execução do plano de trabalho do
-aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
+Esta pesquisa será dividida em quatro partes:
 
-Texto com 4000 caracteres.
+- Pesquisa, organização e metodização das documentações que se referem
+  ao tecido urbano de Aracaju, Maceió, Manaus, Teresina, Belo Horizonte,
+  Rio de Janeiro, Salvador, Recife, São Paulo, Belém, Porto Alegre,
+  Curitiba e Goiás durante o século XIX, incluindo informações teóricas,
+  históricas e cartográficas da época. A documentação a respeito dessas
+  cidades está publicada na bibliografia ou é de fácil acesso em
+  arquivos e órgãos públicos.
+
+- Identificar as dimensões de lotes e vias nas plantas coligidas,
+  valendo-se das ferramentas de análise quantitativa do programa de
+  Sistemas de Informação Geográfica (SIG) escolhido.
+
+- Mapear e tabular os módulos dimensionais de lotes e vias adotados nas
+  cidades brasileiras citadas durante todo o período estudado e
+  coletado.
+
+- Comparar os levantamentos de padrões urbanísticos, examinando a
+  evolução dos mesmos e concluir em quais parâmetros os novos tecidos
+  urbanos prevaleceram com as dimensões portuguesas da época medieval. 
+
+Para o presente trabalho, serão utilizados principalmente o QGIS, um
+programa para Sistemas de Informação Geográfica, e o programa de desenho
+técnico AutoCAD, para mapear, padronizar e analisar os documentos
+geográficos. Para organizar as dimensões urbanísticas encontradas será
+utilizado o editor Microsoft Excel. A Universidade de Brasília possui a
+infraestrutura necessária para o desenvolvimento da pesquisa, a começar
+pelos programas indicados acima, que estão instalados no Laboratório de
+Informática para Arquitetura e Urbanismo (LIAU).
+
+Em caso de suspensão de atividades presenciais durante a vigência do
+plano de trabalho, a pesquisa prosseguirá remotamente utilizando os
+mesmos softwares e com a comunicação exclusivamente realizada por meios
+digitais, uma vez que o programa QGIS é software livre.
 
 
 Bibliografia

@@ -2,6 +2,7 @@
 title    : "Barreiras: urbanização numa encruzilhada do sertão"
 author   : "João Testi Neto"
 date     : 2020-04-13
+bibliography: "pibic21-barreiras.bib"
 ---
 
 Objetivos, problema e justificativa
