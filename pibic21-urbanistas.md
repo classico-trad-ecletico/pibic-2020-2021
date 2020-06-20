@@ -3,6 +3,9 @@ title : >
   Conexões portuguesas na produção urbanística corrente do século XIX
 author: "Luiza Silveira Gasser"
 date  : 2020-05-20
+nocite: "@*"
+csl   : "styles/associacao-brasileira-de-normas-tecnicas.csl"
+bibliography: "pibic21-urbanistas.bib"
 ---
 
 Objetivos, problema e justificativa
