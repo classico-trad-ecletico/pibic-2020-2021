@@ -67,31 +67,43 @@ Texto com 4000 caracteres.
 Bibliografia
 ============
 
-Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
-do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
-do(a) Orientador(a)
-
-Texto com no máximo 2000 caracteres.
+::: {#refs}
+:::
 
 Competências e habilidades
 ==========================
 
 Sou estudante do sexto semestre de Arquitetura e Urbanismo no UniCEUB. 
 
-As minhas áreas de maior interesse acadêmico são Urbanismo e Teoria e História da Arquitetura e do Urbanismo. Tenho interesse de compreender a cidade e os efeitos que a história política, social e econômica tem na urbanização do país.
+As minhas áreas de maior interesse acadêmico são Urbanismo e Teoria e
+História da Arquitetura e do Urbanismo. Tenho interesse de compreender a
+cidade e os efeitos que a história política, social e econômica tem na
+urbanização do país.
 
-Sou dedicada aos meus estudos acadêmicos e em decorrência disso 64% das menções que já obtive no curso de Arquitetura e Urbanismo do Uniceub são SS. Obtive menção MS em somente 25% das disciplinas e MM 3% delas.
+Sou dedicada aos meus estudos acadêmicos e em decorrência disso 64% das
+menções que já obtive no curso de Arquitetura e Urbanismo do Uniceub são
+SS. Obtive menção MS em somente 25% das disciplinas e MM 3% delas.
 
-Alcancei a menção SS em todas as disciplinas que já cursei que abrangem este projeto de pesquisa, estas são “Projeto de Urbanismo I, II e III” e “Teoria e História da Arquitetura e do Urbanismo I, II, III, IV e  V”.
+Alcancei a menção SS em todas as disciplinas que já cursei que abrangem
+este projeto de pesquisa, estas são “Projeto de Urbanismo I, II e III” e
+“Teoria e História da Arquitetura e do Urbanismo I, II, III, IV e  V”.
 
-Minhas principais habilidades são de organização - consigo gerenciar bem o tempo e o espaço de trabalho - comunicação e liderança – tenho uma boa interação com os integrantes em um trabalho de equipe -  e sou adaptável a novos meios e modos de trabalho.
+Minhas principais habilidades são de organização - consigo gerenciar bem
+o tempo e o espaço de trabalho - comunicação e liderança – tenho uma boa
+interação com os integrantes em um trabalho de equipe -  e sou adaptável
+a novos meios e modos de trabalho.
 
-Minhas noções de informática são: Word, Excel e Power Point; Adobe InDesign, Adobe Illustrator e Adobe Photoshop; Autocad e Sketchup.
- Já tive experiência prática em um Projeto de Extensão por um semestre em 2019, projetando habitações para fins de interesse social. Neste mesmo semestre de 2019 fui monitora para a disciplina de Projeto de Urbanismo.
+Minhas noções de informática são: Word, Excel e Power Point; Adobe
+InDesign, Adobe Illustrator e Adobe Photoshop; Autocad e Sketchup. Já
+tive experiência prática em um Projeto de Extensão por um semestre em
+2019, projetando habitações para fins de interesse social. Neste mesmo
+semestre de 2019 fui monitora para a disciplina de Projeto de Urbanismo.
  
-Sou fluente em 4 idiomas, estes são: português, espanhol, inglês e francês. Ademais, atualmente estudo de forma autônoma a língua italiana.
+Sou fluente em 4 idiomas, estes são: português, espanhol, inglês e
+francês. Ademais, atualmente estudo de forma autônoma a língua italiana.
 
-Acredito que este projeto de pesquisa acrescentaria novas competências e conhecimentos essenciais para minha futura trajetória acadêmica.
+Acredito que este projeto de pesquisa acrescentaria novas competências e
+conhecimentos essenciais para minha futura trajetória acadêmica.
 
 
 
