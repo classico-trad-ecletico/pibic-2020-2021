@@ -1,5 +1,5 @@
 ---
-title    : "Casas de câmara e cadeia do planalto Central e adjacências"
+title    : "Casas de câmara e cadeia no planalto Central e adjacências"
 author   : "Maria Isabela Alves de Araújo"
 date     : 2020-05-21
 ---
