@@ -117,8 +117,32 @@ Texto com no máximo 2000 caracteres.
 Competências e habilidades
 ==========================
 
-Texto com no máximo 1000 caracteres.
+A estudante Daniela Matias Xavier cursa atualmente o 8.º semestre do
+curso de graduação em Arquitetura e Urbanismo.
 
+O percorrer da graduação trouxe aprendizados que auxiliarão na pesquisa,
+tais como conhecimento nos Softwares Qgis, Revit, Autocad, Illustrator,
+SketchUp, V-ray, Lumion, Photoshop, Indesign, ArchiCAD e Pacote Office.
+
+Acrescenta-se a prática com indexação e análise de conteúdo de plantas
+históricas, adquiridas ao estagiar no Ministério das Relações
+exteriores. E experiência próxima a projeto de pesquisa, na realização
+de PIBEX, sendo orientada pela professora Rosana Stockler.
+
+Em relação as matérias complementares ao conteúdo, a estudante dispôs de
+um bom rendimento acadêmico, com as menções SS em  Arquitetura e
+Urbanismo no Brasil Colônia e império, Projeto de Urbanismo 1 e
+Modelagem da Informação da Construção – BIM, que são matérias
+complementares ao conteúdo do Projeto de pesquisa. Fez monitoria em
+Modelagem da Informação da Construção – BIM e Projeto Arquitetônico 1.
+
+Participou e foi uma das selecionadas no 1º Concurso de Fotografia do
+CAU/GO, com o tema “Patrimônio Histórico na Arquitetura e Urbanismo”.
+
+Possui interesse na área acadêmica da pesquisa, disposta e determinada a
+contribuir com o desenvolvimento de um estudo de grande importância para
+a história arquitetônica e urbanística do Brasil e na disseminação do
+conhecimento e a preservação do passado.
 
 Cronograma
 ==========
