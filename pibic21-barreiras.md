@@ -2,6 +2,8 @@
 title    : "Barreiras: urbanização numa encruzilhada do sertão"
 author   : "João Testi Neto"
 date     : 2020-04-13
+nocite   : "@*"
+csl      : "styles/associacao-brasileira-de-normas-tecnicas.csl"
 bibliography: "pibic21-barreiras.bib"
 ---
 
@@ -87,13 +89,9 @@ Além disso, os recursos de infraestrutura disponíveis e necessários para a re
 
 Bibliografia
 ============
-CHAVES, Maria Lucenir Ferônimo. Difusão do agronegócio e urbanização do Nordeste: as regiões produtivas do agronegócio da soja no oeste da Bahia e da fruticultura no baixo curso no rio Açu/Jaguaribe (CE/RN). Geografia Ensino & Pesquisa, Vol. 18, n. 2, mai/ago 2014.  
-COSTA, Wendell Marcel Alves da. Pontos de Memória: analise imagética das relações socioespaciais em Barreiras/BA. Cadernos NAUI, Vol. 7, n. 13, jul-dez 2018. 
-CRUZ, Júlio Cezar da. Traçando Barreiras. Gráfica Irmão Ribeiro, Vol. 1, 2006.
-CUNHA, Tássio Barreto. A produção no oeste da Bahia controlada por estrangeiros e a sua vinculação/subordinação ao capital. Revista da geografia agrária, Vol.11, n. 25, p. 05-44, dez., 2016.
-LENA, Vinicius Azzolin. Traçando Barreiras. Gráfica Irmão Ribeiro, Vol. 1, 2006.
-SANTOS, Camila Dutra dos. Difusão do agronegócio e urbanização do Nordeste: as regiões produtivas do agronegócio da soja no oeste da Bahia e da fruticultura no baixo curso no rio Açu/Jaguaribe (CE/RN). Geografia Ensino & Pesquisa, Vol. 18, n. 2, mai/ago 2014. 
 
+::: {#refs}
+:::
 
 Competências e habilidades do aluno
 ===================================
