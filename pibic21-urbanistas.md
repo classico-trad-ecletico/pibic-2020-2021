@@ -31,7 +31,7 @@ lusófona e "o Reino". São objetivos específicos deste plano:
 A prática urbanística "corrente" da tradição luso-brasileira é formada
 por um conjunto de saberes profissionais e de legislação civil que se
 transforma gradualmente, desde seus primórdios no século XIII
-[@trindade:2013urbanismo] até a introdução das reformas urbanas
+[@trindade:2009urbanismo] até a introdução das reformas urbanas
 monumentais, de inspiração francesa, em finais do século XIX
 [@pereira:1998reforma]. Essa prática é da alçada, sobretudo, dos
 engenheiros militares, mas também de construtores e incorporadores civis
