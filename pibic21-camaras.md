@@ -40,6 +40,50 @@ sobreposta ao estabelecimento prisional se consolida num tipo
 edilício preciso no Alentejo e nos Açores, difundindo-se então para o
 Brasil colonial.
 
+O processo de elevação das vilas no Brasil envolveu preocupação com a
+localização e instalação de equipamentos como a casa de câmara e cadeia,
+o pelourinho e a igreja. Tais "monumentos" serviam como referências de
+níveis para assinalar os destinos das próprias vilas. A distribuição dos
+espaços na tipologia edilícia em questão visava a satisfazer as
+necessidades de serviços administrativos e judiciais, penitenciários e
+religiosos, dividindo-se em duas distintas partes: Câmara e Cadeia. A
+primeira exigia salas simples para os serviços camarários e judiciários,
+enquanto a última requisitava apenas celas para prisão. O
+desenvolvimento da Casa de Câmara e Cadeia varia em função dos recursos
+materiais de cada município, portanto, não se deve considerar aplicável
+indistintamente a todos os exemplares a extensão do programa básico.
+
+Os sistemas construtivos empregados na fábrica das Casas de Câmara e
+Cadeia --- os mesmos dos demais "monumentos" da colônia --- agregavam as
+técnicas da taipa de pilão, do frontal, do tijolo e da pedra. Junto com
+Tomé de Sousa vieram pedreiros, carpinteiros e profissionais da cal, da
+telha e do tijolo.
+
+As Casas de Câmara e Cadeia podiam se posicionar no centro do terreno,
+formando pátios externos, fechados com muro de cintura ou aberto --
+apenas gradeado no lado da frente. Podiam também ser dispostas em canto
+no terreiro, murado ou não. Podiam ainda ser independentes do terreno,
+completamente isoladas nas vilas e cidades, cercadas por vias públicas.
+Acerca dos pátios internos, sua relação com a composição horizontal do
+edifício estava diretamente relacionada: podiam ser construções maciças
+ou vazadas, com saguões.
+
+Mesmo considerando essa ampla margem para variações construtivas e
+projetuais, a percepção habitual que se tem hoje da casa de Câmara e
+Cadeia no Brasil colonial e imperial é de um tipo altamente padronizado
+e homogêneo. Isto não corresponde, porém, à realidade, e fica bastante
+claro no contexto do planalto Central. As pequenas vilas aqui
+constituídas entre meados do século XVIII e finais do XIX adotaram, por
+diversas razões além da simples falta de recursos, uma variedade de
+configurações e de sistemas construtivos. Há desde câmaras com pavimento
+único até edifícios extremamente compactos, mais altos do que largos. A
+implantação também é variada, com câmaras definindo o perímetro de
+praças ou apenas edificadas no centro do lote.
+
+Evidenciar tamanha diversidade e compreender as transformações desse
+tipo arquitetônico no tempo e no espaço é, portanto, a motivação central
+por trás deste estudo.
+
 Viabilidade, recursos e metodologia
 ===================================
 
