@@ -2,6 +2,9 @@
 title    : "Casas de câmara e cadeia no planalto Central e adjacências"
 author   : "Maria Isabela Alves de Araújo"
 date     : 2020-05-21
+nocite   : "@*"
+csl      : "styles/associacao-brasileira-de-normas-tecnicas.csl"
+bibliography: "pibic21-camaras.bib"
 ---
 
 Objetivos, problema e justificativa
@@ -65,34 +68,30 @@ Texto com 4000 caracteres.
 Bibliografia
 ============
 
-Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
-do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
-do(a) Orientador(a)
-
-Texto com no máximo 2000 caracteres.
-
+::: {#refs}
+:::
 
 Competências e habilidades
 ==========================
 
 Maria Isabela ingressou na universidade aos 16 anos e atualmente cursa o 
-sétimo semestre. Ela está apta para as exigências específicas deste plano 
-de trabalho porque é uma aluna dedicada e curiosa, bem como apresenta 
-experiência com regularização fundiária em seu último estágio, o que a 
-trará um norte dentro da metodologia dos estudos a serem feitos, bem como 
-conhecimento em softwares necessários, como AutoCAD e QGIS, além de 
-programas como Excel, Word Illustrator e Photoshop.
+sétimo semestre. Está apta para as exigências específicas deste plano de
+trabalho, tendo cumprido a maior parte da cadeia de teoria e história do
+curso. Além disso, sua experiência em estágio com regularização
+fundiária contribui com competências de documentação e processamento de
+dados cadastrais, o que lhe dá um bom ponto de partida para a
+metodologia da pesquisa.
 
-As matérias da cadeira de teoria e história tem lhe inspirado bastante ao 
-longo de sua trajetória acadêmica, dado o entedimento que essa traz sobre 
-as outras disciplinas. Dessa forma, durante o isolamento social, sabendo
-da possibilidade desta pesquisa, ela investiu em buscar leituras de textos, 
-estudos e livros históricos para se familiarizar com a pesquisa e com o tema.
+Domina os softwares necessários, como AutoCAD e QGIS, além de programas
+como Excel, Word Illustrator e Photoshop. As matérias da cadeira de
+teoria e história têm lhe inspirado bastante ao longo de sua trajetória
+acadêmica, compreendendo seu papel integrador de conhecimentos e de
+abordagens teóricas. Dessa forma, durante o isolamento social, investiu
+em buscar leituras de textos, estudos e livros históricos para se
+familiarizar com a pesquisa e com o tema.
 
-Acrescenta-se, também, que maria escreve muito bem e com clareza e fala inglês.
-
-Texto com no máximo 1000 caracteres.
-
+Acrescenta-se, também, que Maria escreve com desenvoltura e clareza, e
+lê e fala bem inglês.
 
 Cronograma
 ==========
