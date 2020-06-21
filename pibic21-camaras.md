@@ -33,37 +33,47 @@ nos seguintes objetivos específicos:
   representar as transformações na configuração canônica da casa de
   Câmara e Cadeia após a Independência.
 
-A casa de Câmara e Cadeia é um dos mais antigos tipos arquitetônicos a
-se consolidar no mundo luso-brasileiro. Atestada desde o século XVI, a
+A casa de Câmara e Cadeia é um dos mais antigos tipos arquitetônicos
+consagrados no mundo luso-brasileiro. Atestada desde o século XVI, a
 configuração de sede do poder político-administrativo municipal
 sobreposta ao estabelecimento prisional se consolida num tipo
-arquitetônico preciso no Alentejo e nos Açores, difundindo-se então para
-o Brasil colonial.
-
-* * * * * *
-
-Inserir aqui o resumo do plano de trabalho, contendo objetivos, problema
-de pesquisa do aluno e justificativa para o desenvolvimento do plano, de
-maneira a demonstrar claramente a adequação do plano ao projeto de
-pesquisa e ao nível de pesquisa de iniciação científica.
-
-Texto com 5000 caracteres.
-
+edilício preciso no Alentejo e nos Açores, difundindo-se então para o
+Brasil colonial.
 
 Viabilidade, recursos e metodologia
 ===================================
 
-Inserir a descrição da metodologia da pesquisa contendo os passos
-metodológicos necessários para a sua execução e para o alcance dos
-objetivos enunciados. Também devem ser descritos os recursos materiais
-(bibliografia, computadores, softwares, metodologias, equipamentos de
-laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
-a infraestrutura (laboratórios, salas de pesquisa, salas de informática
-e outros espaços) disponíveis para a execução do plano de trabalho do
-aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
+Esta pesquisa consiste na organização e interpretação dos documentos
+históricos e gráficos existentes acerca das casas de Câmara e Cadeia. Em
+alguns dos casos estudados, a edificação foi convertida em museu,
+abrigando um acervo que servirá como ponto de partida para a pesquisa.
+Em outros casos, os órgãos de patrimônio cultural e de planejamento
+urbano nas diferentes esferas possuem alguma documentação técnica e
+histórica que poderá ser aproveitada. A bibliografia já identificada e a
+ser identificada, predominantemente local e regional, suplementará
+informações históricas. Estima-se que visitas técnicas às edificações e
+aos órgãos públicos poderão se realizar em tempo, observando condições
+de segurança sanitária.
 
-Texto com 4000 caracteres.
+O desenvolvimento da pesquisa demanda habilidades correntes na graduação
+em Arquitetura e Urbanismo, como redesenhar plantas padronizando suas
+escalas e convenções gráficas. O trabalho constitui, também, um
+aprofundamento na formação em pesquisa histórica e teórica fornecida
+pelo curso. As principais tarefas interpretativas envolvidas são a
+organização, comparação e classificação de tipos arquitetônicos. Para
+tanto, empregam-se principalmente os métodos e conceitos da tipologia
+processual italiana [@cataldi:2002saverio6], bem como da análise urbana
+de matriz francesa [@panerai:2006analise].
 
+Para além do levantamento documental e bibliográfico a ser realizado,
+bem como o contato pessoal com as edificações, este plano de trabalho
+demanda poucos recursos específicos. O redesenho de plantas existentes e
+a edição de imagens podem ser realizados com os programas de desenho
+técnico e tratamento gráfico habituais no campo da Arquitetura e
+Urbanismo --- AutoCAD, Illustrator e Photoshop. Todos estão instalados
+no Laboratório de Informática Aplicada em Arquitetura e Urbanismo (LIAU)
+da FAU--UnB e podem ser usados, conforme necessário, remotamente, por
+meio de licenças para estudante.
 
 Bibliografia
 ============
