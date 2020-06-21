@@ -75,12 +75,64 @@ Texto com no máximo 2000 caracteres.
 Competências e habilidades
 ==========================
 
+Maria Isabela ingressou na universidade aos 16 anos e atualmente cursa o 
+sétimo semestre. Ela está apta para as exigências específicas deste plano 
+de trabalho porque é uma aluna dedicada e curiosa, bem como apresenta 
+experiência com regularização fundiária em seu último estágio, o que a 
+trará um norte dentro da metodologia dos estudos a serem feitos, bem como 
+conhecimento em softwares necessários, como AutoCAD e QGIS, além de 
+programas como Excel, Word Illustrator e Photoshop.
+
+As matérias da cadeira de teoria e história tem lhe inspirado bastante ao 
+longo de sua trajetória acadêmica, dado o entedimento que essa traz sobre 
+as outras disciplinas. Dessa forma, durante o isolamento social, sabendo
+da possibilidade desta pesquisa, ela investiu em buscar leituras de textos, 
+estudos e livros históricos para se familiarizar com a pesquisa e com o tema.
+
+Acrescenta-se, também, que maria escreve muito bem e com clareza e fala inglês.
+
 Texto com no máximo 1000 caracteres.
 
 
 Cronograma
 ==========
 
-Mês a mês
+Agosto de 2020: 
+pesquisa bibliográfica/definição do escopo/questionamentos norteadores
+
+Setembro de 2020: 
+pesquisa bibliográfica/definição do escopo/questionamentos norteadores
+
+Outubro de 2020:
+pesquisa documental
+
+Novembro de 2020:
+reconstituição/levantamento de hipóteses
+
+Dezembro de 2020:
+pesquisa de campo/levantamentos gerais
+
+Janeiro de 2021:
+pesquisa de campo/levantamentos gerais
+
+Fevereiro de 2021:
+separação, organização e unificação dos dados, referências e 
+documentos/elaboração de respostas aos questionamentos norteadores
+
+Março de 2021:
+separação, organização e unificação dos dados, referências e 
+documentos/elaboração de respostas aos questionamentos norteadores
+
+Abril de 2021:
+análise das respostas/desenvolvimento da pesquisa/redação do relatório
+
+Maio de 2021:
+desenvolvimento da pesquisa/redação do relatório
+
+Junho de 2021:
+redação do relatório
+
+Julho de 2021:
+revisão/formatação
 
 
