@@ -131,34 +131,25 @@ Bibliografia
 Competências e habilidades do aluno
 ===================================
 
-João Testi é estudante do segundo semestre de Arquitetura e Urbanismo na
-Universidade de Brasília – UnB. Antes disso fez dois semestre de
-Arquitetura e Urbanismo no Instituto Federal da Bahia (IFBA) e três
-semestres de Artes Visuais na UnB. Já estagiou no escritório Mude de
-arquitetura e design como designer e também trabalha há quatro anos como
-fotógrafo.
+João Testi morou no centro histórico de Barreiras até os 19 anos de
+idade. Está no 2.º semestre de Arquitetura e Urbanismo na UnB; antes
+disso, cursou dois semestres do mesmo curso no Instituto Federal da
+Bahia e três em Artes Visuais na UnB. Já fez estágio como designer e
+trabalha há quatro anos como fotógrafo, além de escrever com
+desenvoltura.
 
-Dessa forma, tem experiência nas áreas de fotografia, design, ilustração
-e artes visuais. Ênfase em edição de vídeo e imagem, produção de
-slogans, cartazes, identidade visual, colagens, ilustração com foto,
-vídeo arte, bordado e fotografia. Suas linhas de foto são fotografia de
-arquitetura, urbanismo, moda, performance, eventos e de produções
-artísticas. 
+A proposta deste plano de trabalho partiu de sua própria iniciativa, o
+que demonstra sua proatividade, e ele assumiu um papel destacado na
+articulação com os demais alunos deste projeto. João já colheu abundante
+material bibliográfico e iconográfico sobre a cidade, os quais lhe dão
+um ponto de partida muito adiantado na consecução deste plano de
+trabalho.
 
-Dentro da Arquitetura e Urbanismo, se interessa pela pesquisa teórica e
-iconográfica da produção histórica arquitetônica e urbanística
-brasileira, além da sua própria criação fotográfica na área. Fez as
-disciplinas de Teoria e História da Arquitetura e Urbanismo e
-Informática Aplicada à Arquitetura e Urbanismo no IFBA que irão ajudar
-na realização da pesquisa proposta. Essas três disciplinas (duas de
-história e uma de informática) ajudarão como uma base para a pesquisa
-proposta, assim como a experiência do aluno com fotografia histórica que
-começa na adolescência e que se ampliou na universidade, principalmente
-na sua graduação em Artes Visuais. Além disso, por nascer, morar até os
-19 anos e crescer no Centro Histórico de Barreiras, João Testi tem
-vivencias afetivas e conhecimentos históricos da cidade passados de
-geração em geração por sua família e por moradores mais antigos da
-região.
+Tem interesse na pesquisa teórica e iconográfica da produção
+arquitetônica e urbanística brasileira. Cursou as disciplinas de Teoria
+e História da Arquitetura e Urbanismo e Informática Aplicada à
+Arquitetura e Urbanismo no IFBA, que contribuem competências específicas
+para esta pesquisa.
 
 Cronograma
 ==========

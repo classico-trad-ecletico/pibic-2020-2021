@@ -120,37 +120,24 @@ Bibliografia
 Competências e habilidades
 ==========================
 
-Sou estudante do sexto semestre de Arquitetura e Urbanismo no UniCEUB. 
+Luiza Gasser é estudante do sexto semestre de Arquitetura e Urbanismo no
+UniCEUB, com bom aproveitamento no curso: 64% de menções SS. Alcançou
+esta menção em todas as disciplinas relacionadas a este projeto de
+pesquisa, nas cadeias de Projeto de Urbanismo e Teoria e História da
+Arquitetura e do Urbanismo.
 
-As minhas áreas de maior interesse acadêmico são Urbanismo e Teoria e
-História da Arquitetura e do Urbanismo. Tenho interesse de compreender a
-cidade e os efeitos que a história política, social e econômica tem na
-urbanização do país.
+Desde o início do processo de candidatura ao Pibic, demonstrou autonomia
+e capacidade de organização e liderança, ajudando a coordenar os demais
+alunos incluídos neste projeto de pesquisa. Além disso, domina os
+principais programas utilizados em Arquitetura e Urbanismo e em
+pesquisa, como os pacotes Microsoft Office e Adobe, bem como os
+programas de desenho técnico e modelagem, Autocad e Sketchup.
 
-Sou dedicada aos meus estudos acadêmicos e em decorrência disso 64% das
-menções que já obtive no curso de Arquitetura e Urbanismo do Uniceub são
-SS. Obtive menção MS em somente 25% das disciplinas e MM 3% delas.
-
-Alcancei a menção SS em todas as disciplinas que já cursei que abrangem
-este projeto de pesquisa, estas são “Projeto de Urbanismo I, II e III” e
-“Teoria e História da Arquitetura e do Urbanismo I, II, III, IV e  V”.
-
-Minhas principais habilidades são de organização - consigo gerenciar bem
-o tempo e o espaço de trabalho - comunicação e liderança – tenho uma boa
-interação com os integrantes em um trabalho de equipe -  e sou adaptável
-a novos meios e modos de trabalho.
-
-Minhas noções de informática são: Word, Excel e Power Point; Adobe
-InDesign, Adobe Illustrator e Adobe Photoshop; Autocad e Sketchup. Já
-tive experiência prática em um Projeto de Extensão por um semestre em
-2019, projetando habitações para fins de interesse social. Neste mesmo
-semestre de 2019 fui monitora para a disciplina de Projeto de Urbanismo.
- 
-Sou fluente em 4 idiomas, estes são: português, espanhol, inglês e
-francês. Ademais, atualmente estudo de forma autônoma a língua italiana.
-
-Acredito que este projeto de pesquisa acrescentaria novas competências e
-conhecimentos essenciais para minha futura trajetória acadêmica.
+Em 2019, atuou em projeto de extensão com habitações de interesse
+social. Foi monitora para a disciplina de Projeto de Urbanismo. É
+fluente em quatro idiomas cruciais para a bibliografia e fundamentação
+teórica: português, espanhol, inglês e francês, além de estudar
+italiano.
 
 Cronograma
 ==========
