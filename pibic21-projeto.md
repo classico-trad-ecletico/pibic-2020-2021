@@ -3,7 +3,7 @@ title : "Iniciação científica 2020–2021"
 author: "Pedro Paulo Palazzo"
 date  : 2020-04-13
 nocite: "@*"
-bibliography: "bibliography/projeto.bib"
+bibliography: "pibic21-projeto.bib"
 suppress-bibliography: false
 lang  : pt-BR
 ---
