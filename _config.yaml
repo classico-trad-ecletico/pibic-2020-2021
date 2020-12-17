@@ -27,16 +27,6 @@ plugins: # {{{2
   - jekyll-sitemap
   - jekyll-seo-tag
   - kramdown
-    # The following plugins are always used by GH-Pages
-  - jekyll-coffeescript
-  - jekyll-default-layout
-  - jekyll-gist
-  - jekyll-github-metadata
-  - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
-  - jekyll-titles-from-headings
-  - jekyll-relative-links
 
 # Other build parameters {{{2
 permalink: pretty
@@ -51,7 +41,7 @@ relative_links:
   enabled: true
   collections: true
 readme_index:
-  enabled:          true
+  enabled:          false
   remove_originals: true
   with_frontmatter: true
 
