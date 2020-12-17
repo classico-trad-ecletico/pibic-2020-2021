@@ -44,5 +44,8 @@ readme_index:
   enabled:          false
   remove_originals: true
   with_frontmatter: true
+exclude:
+  - *.bib
+  - *.yaml
 
 # vim: set foldmethod=marker :
