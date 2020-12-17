@@ -1,0 +1,51 @@
+# General {{{1
+title: "Clássico, tradicional, eclético: Iniciação científica 2020–2021"
+email: palazzo@unb.br
+description: >-
+  Discursos arquitetônicos produzidos de c. 1860 a 1930,
+  com ênfase na formação dos campos teóricos brasileiros
+  compreendidos numa abordagem global.
+baseurl: "/classico-trad-ecletico-pibic21"
+url: "https://dmcpatrimonio.github.io"
+lang: pt
+twitter_username: p3palazzo
+github_username:  dmcpatrimonio
+open_graph: https://repository-images.githubusercontent.com/224453298/09a3bd80-60be-11ea-83cb-4b22bffcf270
+
+# Build settings {{{1
+theme: minima # {{{2
+minima:
+  date_format : "%e %B %Y"
+  social_links:
+    twitter   : https://twitter.com/p3palazzo
+    github    : https://github.com/dmcpatrimonio/arqtrad
+    instagram : https://instagram.com/arqtrad
+header_pages:
+
+plugins: # {{{2
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - kramdown
+
+# Other build parameters {{{2
+permalink: pretty
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  header_offset: 1
+  parse_block_html: true
+  parse_span_html: true
+  transliterated_header_ids: true
+relative_links:
+  enabled: true
+  collections: true
+readme_index:
+  enabled:          false
+  remove_originals: true
+  with_frontmatter: true
+exclude:
+  - "*.bib"
+  - "*.yaml"
+
+# vim: set foldmethod=marker :

@@ -1,12 +1,5 @@
 # Global variables {{{1
 # ================
-# Where make should look for things
-VPATH = lib
-vpath %.bib .:bibliography
-vpath %.csl styles
-vpath %.yaml .:spec:_data
-vpath default.% lib:lib/templates:lib/pandoc-templates
-vpath reference.% lib:lib/templates:lib/pandoc-templates
 
 # Branch-specific targets and recipes {{{1
 # ===================================
@@ -16,42 +9,28 @@ vpath reference.% lib:lib/templates:lib/pandoc-templates
 PAGES_SRC  = $(filter-out README.md,$(wildcard *.md))
 PAGES_OUT := $(patsubst %.md,tmp/%.md, $(PAGES_SRC))
 
+PANDOC/CROSSREF := pandoc/crossref:2.11.2
+PANDOC/LATEX    := pandoc/latex:2.11.2
+
 build :
 	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:3.8.5 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
 pandoc : $(PAGES_OUT)
-	@-rm -rf styles
 
-tmp/%.md : %.md %.bib jekyll.yaml default.jekyll
-	@test -e tmp || mkdir tmp
-	@test -e styles || git clone https://github.com/citation-style-language/styles.git
+tmp/%.md : %.md %.bib jekyll.yaml | styles tmp
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		palazzo/pandoc-crossref:2.9.2.1 $< -o $@ -d spec/jekyll.yaml
+		$(PANDOC/CROSSREF) $< -o $@ -d jekyll.yaml
 	@test ! -L %.bib || rm %.bib
 
 %.bib : biblio.bib
 	@test -f $@ || ln -s $< $@
 
-# VI Enanparq {{{2
-# -----------
-ENANPARQ_SRC  = $(wildcard 6enanparq-*.md)
-ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
+styles :
+	@test -e styles || git clone --depth 1 https://github.com/citation-style-language/styles.git
 
-6enanparq.docx : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
-	6enanparq-metadata.yaml default.opendocument reference.odt
-	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		palazzo/pandoc-crossref:2.9.2.1 \
-		-o 6enanparq.odt -d spec/6enanparq-sl.yaml \
-		6enanparq-intro.md 6enanparq-palazzo.tmp \
-		6enanparq-florentino.tmp 6enanparq-gil_cornet.tmp \
-		6enanparq-tinoco.tmp 6enanparq-metadata.yaml
-	docker run -v "`pwd`:/home/alpine" -v assets/fonts:/usr/share/fonts:ro \
-		woahbase/alpine-libreoffice:x86_64 --convert-to docx 6enanparq.odt
-
-%.tmp : %.md concat.yaml biblio.bib
-	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		palazzo/pandoc-crossref:2.9.2.1 -o $@ -d spec/concat.yaml $<
+tmp :
+	@test -e tmp || mkdir tmp
 
 # Figuras a partir de vetores {{{2
 # ---------------------------
