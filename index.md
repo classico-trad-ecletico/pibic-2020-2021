@@ -6,6 +6,7 @@ nocite: "@*"
 bibliography: "pibic21-projeto.bib"
 suppress-bibliography: false
 lang  : pt-BR
+layout: page
 ---
 
 Planos de trabalho
